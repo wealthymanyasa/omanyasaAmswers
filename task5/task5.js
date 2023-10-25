@@ -1,3 +1,17 @@
+//instructions to execute the file
+// Step 1: install node.js on your system
+
+// Step 2: open the folder with the task.js file in command prompt.
+
+// Step 3: type npm install to install package dependencies
+
+// Step 4:  Locate your path where the .js file is saved.
+
+// Step 5: To compile the .js file we have to write
+
+//Node <Filename>.js
+
+// Step 6: Press the Enter key.
 const prompt=require("prompt-sync")({sigint:true}); 
 
 function calculateDilutionAmount(currentAmount, currentDilution, recommendedDilution) {
